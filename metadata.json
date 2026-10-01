@@ -1,0 +1,6 @@
+{
+  "name": "MBB Executive Deck Presenter",
+  "description": "Executive consulting presentation deck with modular React slides, minimal navigation, subtle animations, and PDF export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
